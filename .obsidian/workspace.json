@@ -11,10 +11,14 @@
             "id": "da9a0168911169fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Chel'Zaroth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chel'Zaroth"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lugares/Chel'Zaroth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Chel'Zaroth"
             }
           }
         ],
@@ -163,6 +168,8 @@
   },
   "active": "da9a0168911169fb",
   "lastOpenFiles": [
+    "Personajes/Jugadores/Lilith.md",
+    "Lugares/Chel'Zaroth.md",
     "README.md",
     "git/README.md",
     "git",
@@ -187,10 +194,8 @@
     "Personajes/Jugadores/Traugrim.md",
     "Corps/Nails & Hammer.md",
     "Sesiones/1.md",
-    "Personajes/Jugadores/Lilith.md",
     "Personajes/Otros/Pianista.md",
     "Personajes/Otros/Angelica.md",
-    "Lugares/Biblioteca de Ruina.md",
     "Sin título.canvas",
     "Personajes/Sin título.canvas",
     "Sesiones",
