@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "3b6ff3fd175e89ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "67a5baf39c95efac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da9a0168911169fb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b7b2d8494e38add",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e275052c01a6ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ca0ceac7ed198b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "2fe3906a0526eb0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9a0abedce2c442d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c75fa2cd6b07357",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d4f9f135b53f208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9743e5a45f26f486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "2d7ff337518e9eb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "84d15ec1f1cc89d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "74bae87abc19d533",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "74bae87abc19d533",
+  "lastOpenFiles": [
+    "README.md",
+    "git/README.md",
+    "git",
+    "Personajes/Enemigos/Genericos/Inquisidor Flagelante.md",
+    "Personajes/Enemigos/Genericos/Inquisidor Fanático.md",
+    "Personajes/Enemigos/Genericos",
+    "Personajes/Enemigos/Nornerius Tenebrae.md",
+    "Personajes/Enemigos/Kromer.md",
+    "Lugares/La Nueva Ciudad.md",
+    "Sectores/Sector 1.md",
+    "Project Moon.md",
+    "Lugares/La Ciudad.md",
+    "Corps/Entropy Corp.md",
+    "Personajes/Jugadores/Kimi Morgunson.md",
+    "Sectores/Sector 3.md",
+    "Corps/The Mind.md",
+    "Personajes/Jugadores/Kael.md",
+    "Conceptos/La Cabeza.md",
+    "Corps/The Hand.md",
+    "Sucesos/La Fuga.md",
+    "Personajes/NPC/La Bruja Gris.md",
+    "Personajes/Jugadores/Traugrim.md",
+    "Corps/Nails & Hammer.md",
+    "Sesiones/1.md",
+    "Personajes/Jugadores/Lilith.md",
+    "Personajes/Otros/Pianista.md",
+    "Personajes/Otros/Angelica.md",
+    "Lugares/Biblioteca de Ruina.md",
+    "Sin título.canvas",
+    "Personajes/Sin título.canvas",
+    "Sesiones",
+    "Personajes/Otros",
+    "Personajes/Fixers",
+    "Personajes/Enemigos",
+    "Enemig",
+    "Personajes/NPC",
+    "Personajes/Fixers",
+    "Lugares",
+    "WhatsApp Image 2025-05-29 at 8.44.47 PM.jpeg"
+  ]
+}
