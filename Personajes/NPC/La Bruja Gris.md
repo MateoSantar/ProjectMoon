@@ -1,4 +1,4 @@
-
+#Neutral 
 Nombre real: Marzia
 
 Bruja que crió a [[Traugrim]]
