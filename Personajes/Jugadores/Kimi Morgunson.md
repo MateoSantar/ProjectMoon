@@ -37,4 +37,8 @@ Fracturas el tiempo, tira 1d4/2, el resultado es la cantidad de fallas temporale
 
 Al parecer, al convocar a tus variantes, ocurrió algún error (quien lo diría) y sus mentes fueron retorcidas al extremo, no son capaces de diferenciar lo bueno de lo malo y los aliados de los enemigos. Cada vez que ataquen, tanto con hechizos como ataques de otro tipo, obtienen 2d4 de daño adicional. *Pero el GM tirara para saber a quienes van dirigidos esos ataques.*
 
+
+Enemigo destinado de su arco [[Kimi Morgunson-Conquest ]]
+
+
 [^1]: Es literalmente un reloj de mano, pero no se lo puede sacar, [[Dante]] tiene intención de en algún momento robárselo.

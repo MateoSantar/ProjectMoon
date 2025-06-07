@@ -1,7 +1,7 @@
 #Neutral 
 Nombre real: Marzia
 
-Bruja que crió a [[Traugrim]]
+Bruja que crió a [[Calem]]
 
 Se presentaba al resto como Calem
 Nombre real: Traugrim

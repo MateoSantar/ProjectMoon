@@ -16,4 +16,4 @@ Miembros:
 - [[Kimi Morgunson]]
 - [[Lilith]]
 - [[Kael]]
-- [[Traugrim]]
+- [[Calem]]
