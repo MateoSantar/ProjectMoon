@@ -1,4 +1,5 @@
 #Enemigo 
 Variante enemiga de [[Kimi Morgunson]]
 
-Introducida en 
+Introducida en el arco de [[Kimi Morgunson]]
+
