@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "19096d7800d54f10",
+        "id": "82a023332eaf3a76",
         "type": "tabs",
         "children": [
           {
-            "id": "088ea3a8114b06a3",
+            "id": "e516a2c22d33c7aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Conceptos/Anormalidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anormalidad"
+            }
+          },
+          {
+            "id": "bc3ac984227e3c3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anormalidades/Open the Can of Wellcheers!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Open the Can of Wellcheers!"
             }
           }
         ]
@@ -88,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7c75fa2cd6b07357",
@@ -177,36 +194,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "088ea3a8114b06a3",
+  "active": "e516a2c22d33c7aa",
   "lastOpenFiles": [
-    "Personajes/NPC/La Bruja Gris.md",
-    "Lugares/Chel'Zaroth.md",
+    "Anormalidades/Open the Can of Wellcheers!.md",
+    "Conceptos/Anormalidad.md",
+    "Anormalidades/Apocalypse Bird.md",
+    "Anormalidades/Child of the Galaxy.md",
+    "Anormalidades/Knight of Despair.md",
+    "Anormalidades/Happy Teddy Bear.md",
+    "Anormalidades/Laetitia.md",
+    "Anormalidades/Mountain of Smiling Bodies.md",
+    "Anormalidades/Nothing There.md",
+    "Anormalidades/One Sin and Hundreds of Good Deeds.md",
+    "Anormalidades/Red Shoes.md",
+    "Anormalidades/The Queen of Hatred.md",
+    "Anormalidades/The Singing Machine.md",
+    "Anormalidades/WhiteNight.md",
+    "Anormalidades/The Red Mist.md",
+    "Personajes/Enemigos/Kimi Morgunson-Conquest.md",
+    "Anormalidades",
+    "Sesiones/2.md",
+    "Personajes/Jugadores/Volker.md",
+    "Personajes/Jugadores/Varek Ankonam.md",
+    "Personajes/Jugadores/Traugrim.md",
+    "Personajes/Jugadores/Nous.md",
     "Personajes/Jugadores/Lilith.md",
-    "Corps/The Mind.md",
-    "Corps/The Soul.md",
-    "Corps/Third Eye.md",
-    "Corps/Transhumanism & Upgrade.md",
-    "Corps/The Hand.md",
-    "Corps/The Body.md",
-    "Personajes/Jugadores/Dante.md",
-    "Lugares/Las Afueras.md",
-    "README.md",
-    "git/README.md",
-    "git",
-    "Personajes/Enemigos/Genericos/Inquisidor Flagelante.md",
-    "Personajes/Enemigos/Genericos/Inquisidor Fanático.md",
-    "Personajes/Enemigos/Genericos",
-    "Personajes/Enemigos/Nornerius Tenebrae.md",
-    "Personajes/Enemigos/Kromer.md",
-    "Lugares/La Nueva Ciudad.md",
-    "Sectores/Sector 1.md",
-    "Project Moon.md",
-    "Lugares/La Ciudad.md",
-    "Corps/Entropy Corp.md",
     "Personajes/Jugadores/Kimi Morgunson.md",
-    "Sectores/Sector 3.md",
     "Personajes/Jugadores/Kael.md",
-    "Conceptos/La Cabeza.md",
+    "Personajes/Jugadores/Dante.md",
+    "Personajes/NPC/La Bruja Gris.md",
+    "git",
+    "Personajes/Enemigos/Genericos",
     "Sin título.canvas",
     "Personajes/Sin título.canvas",
     "Sesiones",
@@ -216,7 +234,6 @@
     "Enemig",
     "Personajes/NPC",
     "Personajes/Fixers",
-    "Lugares",
     "WhatsApp Image 2025-05-29 at 8.44.47 PM.jpeg"
   ]
 }
