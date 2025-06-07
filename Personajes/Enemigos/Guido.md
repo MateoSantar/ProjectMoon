@@ -11,7 +11,7 @@
 
 * **Clase de armadura:** 17 (Armadura pesada de inquisidor)
 
-* **Puntos de golpe:** 75 (10d8 \+ 30\) 30
+* **Puntos de golpe:** 75 (10d8 \+ 30\)
 
 * **Velocidad:** 30 pies
 
