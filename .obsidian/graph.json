@@ -32,7 +32,7 @@
       "query": "tag:#Sector  ",
       "color": {
         "a": 1,
-        "rgb": 9408399
+        "rgb": 5453316
       }
     },
     {
@@ -74,27 +74,27 @@
       "query": "tag:#Otros  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 8421504
       }
     },
     {
       "query": "tag:#Anormalidad  ",
       "color": {
         "a": 1,
-        "rgb": 6786701
+        "rgb": 0
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -2.4,
-  "nodeSizeMultiplier": 1.53639341927213,
+  "nodeSizeMultiplier": 1.55794611479891,
   "lineSizeMultiplier": 0.866355672672887,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.439000071219999,
   "repelStrength": 11.9706573605869,
   "linkStrength": 0.666320166320166,
   "linkDistance": 316,
-  "scale": 0.24267071501580043,
+  "scale": 0.22611638659597677,
   "close": true
 }

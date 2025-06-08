@@ -10,7 +10,7 @@ La entidad cree que vas por el mundo alimentando tu poder como un adicto con ham
 El objetivo de la entidad es librarse de Scorp utilizandote.
 
 Pero tu objetivo no aolo es obtener poder si no conocimiento toda tu vida fuiste un curioso de la tecnología y quieres saber como porque y cual es el objetico de retener a esta entidad en un código secreto y si hay mas entidad como esa en el...
-
+Su I.A es [[Angela]]
 
 
 *E.G.O:*
