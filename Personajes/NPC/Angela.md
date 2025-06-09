@@ -9,7 +9,8 @@
 **Origen**: [[Angelica]]
 
 ---
-Ubicación actual: [[Lobotomy Corp]] - [[Biblioteca de Ruina]] junto con [[Roland]]
+Ubicación actual: [[Lobotomy Corp]] - [[Librería de Ruina]] junto con [[Roland]]
+Durante la época de [[La Ciudad]], ella actuaba en [[Entropy Corp]] como IA acompañante junto a [[Angelica]], su cerebro origen. [[La Bruja Gris]] fue la encargada principal de su creación, fue puesta en cargo de la creación de los [[Brotes Dorados]] llevando la prueba de los 2403 años, que llevo a su conclusión de que [[La Ciudad]] tenia que recibir un golpe por su uso de anormalidades en las actividades de [[Entropy Corp]], llevando a su ejecución en [[La Fuga]].
 ### **📊 Atributos**
 
 | Atributo | Valor | Modificador |
@@ -166,4 +167,4 @@ Una vez por día, puede crear una versión mejorada de un conjuro de nivel 2, ag
 * Se comporta de forma precisa, pero puede desarrollar “empatía simulada” hacia miembros del grupo.
 * Cree que la preservación del conocimiento es más importante que la vida individual.
 - Fue utilizada para la creación de los [[Brotes Dorados]] mediante experimentos en [[Entropy Corp]].
-- En la [[Biblioteca de Ruina]] busca obtener todos los conocimientos que pueda junto con la forma de volverse humana y "libre".
+- En la [[Librería de Ruina]] busca obtener todos los conocimientos que pueda junto con la forma de volverse humana y "libre".

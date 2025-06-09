@@ -9,7 +9,7 @@
  **Alineamiento:** Caótico Neutral  
  **Inspiración:** Su estilo refleja una mezcla entre combate callejero, entrenamiento de Fixer y puro instinto asesino.
 
-Ubicación Actual: [[Biblioteca de Ruina]] junto con [[Angela]]
+Ubicación Actual: [[Librería de Ruina]] junto con [[Angela]]
 ---
 
 ### **🧠 Concepto**
