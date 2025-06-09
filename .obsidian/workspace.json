@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "290ff2bc37d09e5c",
+        "id": "c7941517a70a213b",
         "type": "tabs",
         "children": [
           {
-            "id": "bbeb862269e1d395",
+            "id": "9785f7c590b388d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Personajes/Fixers/Lukas Trowmen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lukas Trowmen"
             }
           }
         ]
@@ -176,36 +180,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bbeb862269e1d395",
+  "active": "9785f7c590b388d4",
   "lastOpenFiles": [
-    "Singularidades/Lucky Patcher.md",
-    "Sesiones/2.md",
-    "Anormalidades/The Singing Machine.md",
-    "Personajes/Jugadores/Kael.md",
-    "Singularidades/Cronos.md",
-    "Personajes/NPC/Charon.md",
-    "Personajes/NPC/Drizzt Do’Urden.md",
+    "Personajes/Fixers/Roland.md",
+    "Personajes/Fixers/Lukas Trowmen.md",
+    "Personajes/Enemigos/Landamea.md",
+    "Lugares/Las Afueras.md",
+    "Conceptos/Fixer.md",
+    "Conceptos/E.G.O.md",
     "Personajes/Enemigos/Kimi Morgunson-Conquest.md",
-    "Personajes/Enemigos/Lore",
-    "Anormalidades/One Sin and Hundreds of Good Deeds.md",
-    "Personajes/Jugadores/Kimi Morgunson.md",
-    "Conceptos/Anormalidad.md",
+    "Personajes/Enemigos/Genericos/Guardia de The Mind.md",
     "Corps/The Mind.md",
-    "Singularidades",
-    "Corps/The Soul.md",
-    "Corps/Third Eye.md",
-    "Sectores/Sector 3.md",
-    "Corps/The Body.md",
-    "Corps/Transhumanism & Upgrade.md",
-    "Personajes/Jugadores/Lilith.md",
     "Corps/The Hand.md",
-    "Corps/S Corp.md",
-    "Corps/Nails & Hammer.md",
-    "Corps/Lobotomy Corp.md",
+    "Conceptos/Sobrecarga de E.G.O.md",
+    "Corps/Third Eye.md",
+    "Personajes/Jugadores/Kael.md",
+    "Corps/The Soul.md",
     "Corps/Entropy Corp.md",
     "Corps/Black Knives.md",
     "Corps/Black Judge.md",
-    "Anormalidades/Open the Can of Wellcheers!.md",
+    "Conceptos/La Cabeza.md",
+    "Corps/The Body.md",
+    "Personajes/Fixers/Vergilius.md",
+    "Personajes/Fixers/Fen Shuffler.md",
+    "Personajes/Enemigos/Miranda.md",
+    "Personajes/Enemigos/Gareth Bellator.md",
+    "Personajes/Jugadores/Kimi Morgunson.md",
+    "Personajes/Jugadores/Dante.md",
+    "Project Moon.md",
+    "Personajes/Enemigos/Lore",
+    "Singularidades",
     "Anormalidades",
     "git",
     "Personajes/Enemigos/Genericos",

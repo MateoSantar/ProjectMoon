@@ -4,7 +4,7 @@ Jugador: Jorge
 Clase: Monje de los portales locos con habilidad obtenida mediante [[Singularidad]]
 Nacimiento: ??? 
 Raza: Humano.
-Contexto: [[Fixer]] nivel 9
+Contexto: Fixer nivel 9
 Relacion con corps: Criminal buscado por [[Black Judge]] (140000 ahn)
 Relacion con personajes: Perseguido por [[Miranda]]
 Ocupación actual: Sinner de [[S Corp]]

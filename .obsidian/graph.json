@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -12,6 +12,13 @@
       "color": {
         "a": 1,
         "rgb": 2275621
+      }
+    },
+    {
+      "query": "tag:#Enemigo  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     },
     {
@@ -47,13 +54,6 @@
       "color": {
         "a": 1,
         "rgb": 5419488
-      }
-    },
-    {
-      "query": "tag:#Enemigo  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
       }
     },
     {

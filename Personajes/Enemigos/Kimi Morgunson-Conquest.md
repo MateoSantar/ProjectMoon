@@ -1,6 +1,6 @@
 #Enemigo 
 
-Ubicación: Cazando Kimis en el subterráneo del [[Sector 3]], utiliza una [[Brotes Dorados]] para obtener energia y sobrecargar su Crono-Fracturador.
+Ubicación: Cazando Kimis en el subterráneo del Sector 3 ([[The Mind]]), utiliza una [[Brotes Dorados]] para obtener energia y sobrecargar su Crono-Fracturador.
 ## 🧠 CONCEPTO GENERAL
 
 **Kimi Morgunson-Conquest** es una versión corrompida de [[Kimi Morgunson]], que busca el conseguir el mayor potencial temporal posible, para ello asesina a otros Kimis. Es poderoso, impredecible y obsesionado con controlar el tiempo **como arma**. Su diseño está pensado para que:
@@ -155,4 +155,7 @@ Diseñadas para:
 
 ---
 
-¿Quieres que te lo adapte para distintos niveles de dificultad (por ejemplo, una versión más débil o más fuerte), o para un combate especial como “1 contra 1 con Kimi”? También puedo crearle una “fase 2” si cae por debajo del 25% de vida, estilo boss final.
+
+## Acción Legendaria - Viaje
+
+Conquest sobrecarga su Crono-Fracturador, generando una batalla que va variando de escenario, son de partidas nuestras, por ejemplo apareciendo en frente de Rachael de Cinnamon o con los penitentes. Tambien esta la partida de magos.

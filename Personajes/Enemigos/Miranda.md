@@ -2,6 +2,7 @@
 
 # **🗡️ Miranda – Asesina Psíquica de la Corporación E.G.O.**
 #Enemigo
+#Fixer 
 **Raza:** Elfo  
 **Clase:** Pícaro 13 (Soulknife)  
 **Rol:** Fixer de élite – Asesina y recolectora de información
