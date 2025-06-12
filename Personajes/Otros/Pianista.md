@@ -3,7 +3,7 @@
 Nombre real: Fréderic Mendelssohn
 Nacimiento: [[La Ciudad]] - [[Sector 1]]
 
-Ubicación actual: [[Biblioteca de Ruina]]
+Ubicación actual: [[Librería de Ruina]]
 
 
 Fue un joven adulto con una fascinación hermosa por la música, hijo de [[La Bruja Gris]]. Fue utilizado por [[Angela]] y su madre para investigar y experimentar con la [[Distorsión]], fue parte esencial de la destrucción de [[La Ciudad]] y [[La Fuga]].
