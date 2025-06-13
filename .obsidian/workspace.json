@@ -11,10 +11,14 @@
             "id": "9785f7c590b388d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Personajes/Enemigos/Kimi Morgunson-Conquest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kimi Morgunson-Conquest"
             }
           }
         ]
@@ -164,7 +168,8 @@
   },
   "active": "9785f7c590b388d4",
   "lastOpenFiles": [
-    "Anormalidades/The Bar.md",
+    "Personajes/Otros/The Bar.md",
+    "Personajes/Otros/Pianista.md",
     "Anormalidades/Red Shoes.md",
     "Anormalidades/One Sin and Hundreds of Good Deeds.md",
     "Anormalidades/The Queen of Hatred.md",
@@ -172,7 +177,6 @@
     "Conceptos/Anormalidad.md",
     "Anormalidades/Open the Can of Wellcheers!.md",
     "Anormalidades/Mountain of Smiling Bodies.md",
-    "Personajes/Otros/Pianista.md",
     "Personajes/Fixers/Vergilius.md",
     "Personajes/Fixers/Roland.md",
     "Personajes/Fixers/Lukas Trowmen.md",
