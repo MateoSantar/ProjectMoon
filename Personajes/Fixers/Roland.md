@@ -10,6 +10,7 @@
  **Inspiración:** Su estilo refleja una mezcla entre combate callejero, entrenamiento de Fixer y puro instinto asesino.
 
 Ubicación Actual: [[Librería de Ruina]] junto con [[Angela]]
+
 ---
 
 ### **🧠 Concepto**

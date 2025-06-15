@@ -158,4 +158,4 @@ Diseñadas para:
 
 ## Acción Legendaria - Viaje
 
-Conquest sobrecarga su Crono-Fracturador, generando una batalla que va variando de escenario, son de partidas nuestras, por ejemplo apareciendo en frente de Rachael de Cinnamon o con los penitentes. Tambien esta la partida de magos.
+Conquest sobrecarga su Crono-Fracturador, generando una batalla que va variando de escenario, son de partidas nuestras, por ejemplo apareciendo en frente de Rachael de Cinnamon o con los penitentes. Tambien esta la partida de magos. Son llamados mundos-espejo

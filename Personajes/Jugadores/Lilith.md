@@ -8,7 +8,7 @@ Ocupacion actual: [[S Corp]]
 
 Lore:
 
-Lilith nació en los oscuros salones de [[Chel'Zaroth]], una ciudad subterránea regida por la opresión en los suburvios del [[Sector 5]], el poder y el desprecio por la superficie. Desde pequeña, fue instruida en los caminos del engaño, la supervivencia y la fe en la falsa supremacía drow. Sin embargo, a diferencia de sus hermanas, Lilith demostró una inusual capacidad para imitar la compasión, lo que le otorgó una posición única: la de infiltrada.
+Lilith nació en los oscuros salones de [[Chel'Zaroth]], una ciudad subterránea regida por la opresión en los suburbios del [[Sector 5]], el poder y el desprecio por la superficie. Desde pequeña, fue instruida en los caminos del engaño, la supervivencia y la fe en la falsa supremacía drow. Sin embargo, a diferencia de sus hermanas, Lilith demostró una inusual capacidad para imitar la compasión, lo que le otorgó una posición única: la de infiltrada.
 
 A los 16 años, Lilith fue enviada a la superficie con la misión de infiltrarse en comunidades de fe, predicar la redención y recoger información para los suyos. Sin embargo, algo cambió. Su talento para la mentira se volvió algo más... placentero. No era solo una espía. Le fascinaba el poder de ser amada y confiada. De ser vista como un ángel cuando por dentro albergaba el caos.
 

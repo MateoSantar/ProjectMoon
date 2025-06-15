@@ -1,4 +1,4 @@
-#Jugador 
+ #Jugador 
 Jugador: Balta
 Clase: Bardo
 Nacimiento: [[Sector 10]]

@@ -1,6 +1,7 @@
 #Singularidad 
 
 Obtenida de la anormalidad [[Child of the Galaxy]].
+Creada por [[The Mind]]
 Es una sustancia que, una vez inyectada, genera los siguiente efectos:
 1. **Manipulación del tiempo**:  
     Su principal efecto es permitir al usuario **ralentizar el tiempo** o incluso "rebobinar" momentos breves tras la muerte, lo cual se traduce directamente en las mecánicas del juego. Esta habilidad es la base de cómo el protagonista, conocido como _El Dragón_, puede repetir secciones hasta ejecutarlas perfectamente.
